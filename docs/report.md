@@ -7,7 +7,7 @@
 ## Description of the Observations
 The dataset includes two sites and three species.
 ## Results
-Site_A contains 25 observed individuals.
+Site_A contains 27 observed individuals.
 Site_B contains 31 observed individuals.
 ## Conclusion
 This project allows us to share data
