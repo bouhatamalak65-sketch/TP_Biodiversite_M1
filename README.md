@@ -9,9 +9,9 @@ of three species at two sites.
 - data/ : observation data
 - docs/ : practical-session report
 ## Authors
-Full name:
-Speciality:
-Group:
+Full name:malak hibat allah bouhata
+Speciality:bpc
+Group:g1
 ## Note
 The data are fictional and intended
 for teaching purposes only.
